@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassine Cherni</h1>
 <h3 align="center">A passionate Electrical engineering student</h3>
-<img align="right" alt="Robot" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDwcz41L3ogBODhqjlD1UHKXB3oNh7xclOOg&usqp=CAU">
+<img align="right" alt="Robot" width="400" src="https://images.app.goo.gl/MxDFiF4dh11hLECg9">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-cherni&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-cherni" /> </p>
 
 - 🔭 I’m currently working on [Autonomous Mobile Robot](Innovation in Ai & Robotics)
