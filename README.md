@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassine Cherni</h1>
+<h1 align="center">Hi 👋, I'm Yassine Cherni 🤖</h1>
 <h3 align="center">A passionate Electrical engineering student</h3>
 <img align="right" alt="Robot" width="400" src="https://gifdb.com/images/high/iron-man-welcome-zbqyitqbuflw2oq6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-cherni&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-cherni" /> </p>
