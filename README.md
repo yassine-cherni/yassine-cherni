@@ -7,15 +7,9 @@
 
 - 🌱 I’m currently learning **Robotics & Ai**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yassine-cherni](https://github.com/yassine-cherni)
-
-- 📝 I regularly write articles on [Deep Reinforcement learning](Deep Reinforcement learning)
-
-- 💬 Ask me about **Automation, Robotics and Ai**
-
 - 📫 How to reach me **cherniyassine395@gmail.com**
 
-- ⚡ Fun fact **I'am Iron man 🤖**
+- ⚡ Fun fact **I'am Goku 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
