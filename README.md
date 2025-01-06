@@ -3,9 +3,9 @@
 <img align="right" alt="Robot" width="400" src="https://gifdb.com/images/high/iron-man-welcome-zbqyitqbuflw2oq6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-cherni&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-cherni" /> </p>
 
-- 🔭 I’m currently working on (Innovation in Ai & Robotics)
+- 🔭 I’m currently working on (Innovation in Robotics)
 
-- 🌱 I’m currently learning **Robotics & Ai**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📫 How to reach me **cherniyassine395@gmail.com**
 
