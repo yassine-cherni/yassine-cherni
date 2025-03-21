@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-![Yassine github stats](https://github-readme-stats.vercel.app/api?username=bmagyar&show_icons=true&count_private=true&theme=dracula)
+![Yassine github stats](https://github-readme-stats.vercel.app/api?username=yassine-cherni&show_icons=true&count_private=true&theme=dracula)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bmagyar&theme=dracula&layout=compact&hide=jupyter%20notebook)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-cherni&theme=dracula&layout=compact&hide=jupyter%20notebook)
